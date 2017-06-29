@@ -1,0 +1,25 @@
+.container{
+    margin-top: 20px;
+}
+
+.houses{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.houses img {
+    width: 23%;
+    height: 150px;
+}
+
+.house-info{
+    display: flex;
+    justify-content: center;
+}
+
+.info{
+    padding: 10px;
+    background-color: lightgray;
+    border-radius: 10px;
+}
